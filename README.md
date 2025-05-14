@@ -1,4 +1,4 @@
-# AMAE JORUNEY (Algebra Math Adventure Education Journey
+# AMAE JORUNEY (Algebra Math Adventure Education Journey)
 
 AMAE JOURNEY adalah aplikasi digital inovatif yang dirancang untuk membantu para siswa khususnya kelas VII untuk mempelajari materi aljabar dasar. Aplikasi ini didesain berbasis game sehingga untuk menarik perhatian atau minat siswa untuk belajar aljabar serta meningkatkan kemampuan matematis.
 Aplikasi AMAE JOURNEY dikembangkan sebagai bagian dari penelitian guna memenuhi salah satu syarat akademik dalam menyelesaikan program studi dan memperoleh gelar Sarjana Pendidikan (S.Pd.). Aplikasi ini dirancang untuk memberikan solusi inovatif sesuai dengan kajian ilmiah yang mendukung pengembangan ilmu pendidikan serta penerapan teknologi dalam bidang yang relevan.
