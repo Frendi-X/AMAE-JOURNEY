@@ -1,8 +1,7 @@
 # AMAE JORUNEY (Algebra Math Adventure Education Journey)
 
 ## 📌 Deskripsi Singkat
-AMAE JOURNEY adalah aplikasi digital inovatif yang dirancang untuk membantu para siswa khususnya kelas VII untuk mempelajari materi aljabar dasar. Aplikasi ini didesain berbasis game sehingga untuk menarik perhatian atau minat siswa untuk belajar aljabar serta meningkatkan kemampuan matematis.
-Aplikasi AMAE JOURNEY dikembangkan sebagai bagian dari penelitian guna memenuhi salah satu syarat akademik dalam menyelesaikan program studi dan memperoleh gelar Sarjana Pendidikan (S.Pd.). Aplikasi ini dirancang untuk memberikan solusi inovatif sesuai dengan kajian ilmiah yang mendukung pengembangan ilmu pendidikan serta penerapan teknologi dalam bidang yang relevan.
+AMAE JOURNEY adalah aplikasi digital inovatif yang dirancang untuk membantu para siswa khususnya kelas VII untuk mempelajari materi aljabar dasar. Aplikasi ini didesain berbasis game sehingga untuk menarik perhatian atau minat siswa untuk belajar aljabar serta meningkatkan kemampuan matematis. Aplikasi AMAE JOURNEY dikembangkan sebagai bagian dari penelitian guna memenuhi salah satu syarat akademik dalam menyelesaikan program studi dan memperoleh gelar Sarjana Pendidikan (S.Pd.). Aplikasi ini dirancang untuk memberikan solusi inovatif sesuai dengan kajian ilmiah yang mendukung pengembangan ilmu pendidikan serta penerapan teknologi dalam bidang yang relevan.
 
 ---
 
@@ -34,9 +33,9 @@ Game ini dilengkapi dengan fitur:
 ---
 
 ## 🖼️ Access for Free
-https://amaejourney-umpo.netlify.app/
+https://amae-journey.netlify.app/
 ## 🖼️ Access File Construct 2 for Free
-https://drive.google.com/drive/folders/1iDimqkWG7FLHvE7IO7icqRDCDYaJaCFY?usp=sharing
+https://drive.google.com/drive/folders/1SYHrqtTVWCPS3KxXj4w0E0wQQTndMi9J?usp=drive_link
 
 ---
 
